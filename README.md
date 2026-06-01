@@ -1,2 +1,4 @@
 # DiNOalScalping
 ¡No compres productos de tcg para revender, sé un buen jugador; juega y colecciona por diversión o entusiasmo, no por ganar dinero! #DiNOalScalping :)
+
+#DiNOalScalping es una página web para notificar a todos sobre "qué es el método scalping" y cómo evitarlo.
